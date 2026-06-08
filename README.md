@@ -43,7 +43,9 @@ Linux Shell Script를 이용해 달러 환율, 비트코인, 코스피, S\&P 500
 \## 사용 API
 
 \- Frankfurter API: 달러 환율 조회
+
 \- Upbit API: 비트코인 KRW-BTC 가격 조회
+
 \- Yahoo Finance chart API: 코스피, S\&P 500, 금 가격 조회
 
 
